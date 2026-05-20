@@ -71,7 +71,7 @@ Three scatter charts — one each for Energy, Danceability, and Valence — each
 
 | File | What it is |
 |---|---|
-| `Spotify_Analysis.pbix` | The Power BI report — open this in Power BI Desktop |
+| `Spotify Analysis.pbix` | The Power BI report — open this in Power BI Desktop |
 | `dataset.csv` | The raw dataset used to build the report |
 | `README.md` | This file |
 
