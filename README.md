@@ -48,6 +48,8 @@ A few things that genuinely surprised me when I dug into the data:
 ### Page 1 — Top Songs Overview
 Two KPI cards showing total songs and average popularity across the dataset. A horizontal bar chart showing the Top 10 songs by average popularity, and a detail table showing song name, artist, genre, popularity score, and which tier (Viral / Popular / Moderate / Niche) each song falls into. There's also a genre slicer so you can filter everything to a specific genre.
 
+<img width="825" height="370" alt="image" src="https://github.com/user-attachments/assets/d152861a-320d-4ec9-8302-9dc05ccb33ff" />
+
 ### Page 2 — Artist and Audio Mood
 A bar chart showing the Top 15 artists by average popularity. Next to it is the Mood Quadrant — a scatter chart where each bubble represents a genre. The X axis is Valence (sad to happy), the Y axis is Energy (calm to intense), and the bubble size represents how popular that genre is on average. This gives a clear picture of where each genre sits emotionally.
 
