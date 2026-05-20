@@ -53,6 +53,8 @@ Two KPI cards showing total songs and average popularity across the dataset. A h
 ### Page 2 — Artist and Audio Mood
 A bar chart showing the Top 15 artists by average popularity. Next to it is the Mood Quadrant — a scatter chart where each bubble represents a genre. The X axis is Valence (sad to happy), the Y axis is Energy (calm to intense), and the bubble size represents how popular that genre is on average. This gives a clear picture of where each genre sits emotionally.
 
+<img width="825" height="370" alt="image" src="https://github.com/user-attachments/assets/59beac66-7b15-4cfb-b010-d08854b00345" />
+
 ### Page 3 — Genre Deep Dive
 A bar chart ranking genres by average popularity, and a treemap showing which genres have the most songs in the dataset. The two together show you both the quality and quantity side of each genre.
 
